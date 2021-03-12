@@ -1,0 +1,94 @@
+.header{
+    height:250px;
+    max-height:500px;
+    background-image:url(../images/upsBackground.png);
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-position:bottom;
+}
+.colorContainer{
+    display:inline-block;
+    margin: 15px;
+}
+.swatch{
+    height:200px;
+    width: 170px;
+    border:1px solid black;
+}
+.hexCode{
+    padding:15px;
+    text-align: center;
+    border: 1px solid black;
+    border-top: none;
+    border-bottom-left-radius:7px;
+    border-bottom-right-radius: 7px;
+}
+.type_container{
+    display: inline-block;
+    margin:20px;
+}
+.button{
+    display:inline-block;
+    padding:15px;
+    margin: 15px;
+    width: 150px;
+    text-align:center;
+    color:white;
+    font-size:14px;
+    outline:1px solid red;
+}
+.pageTopic{
+    text-align:center;
+    font-size:14px;
+    font-weight:900;
+}
+.large{
+    font-size:66px;
+    margin-bottom:15px;
+    margin-top:0;
+}
+.light{
+    font-weight:100;
+}
+.regular{
+    font-weight:500;
+}
+.bold{
+    font-weight:700;
+}
+.typography h1{
+    font-size:50px;
+    font-weight:900;
+}
+.typography h2{
+    font-size:42px;
+    font-weight:700;
+}
+.typography h3{
+    font-size:34px;
+    font-weight:700;
+}
+.typography h4{
+    font-size:26px;
+}
+body{
+    font-family:'Open Sans', sans-serif;
+}
+.darkGrey{
+    color:#545454;
+}
+.lightGrey{
+    color:E3E3E3;
+}
+.white{
+    color:#FFFFFF;
+}
+.lightBlue{
+    color:#13A0F6;
+}
+.darkBlue{
+    color:#333366;
+}
+.lightGreen{
+    color:#8ABE48;
+}
